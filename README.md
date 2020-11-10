@@ -4,7 +4,7 @@
 
 # Introduction
 
-Prepare a list 10 work (could be video games, movies, TV series, books or music)
+Prepare a list of 10 work of art (could be video games, movies, TV series, books, music, painting)
 For each of them you need to display:
 - Titre
 - Une image d'illustration
@@ -13,85 +13,139 @@ For each of them you need to display:
 - L'auteur
 - Description
 
+Then create cards and make a collection website that should look like this:
+![image](img/exercise.png)
+
 # Content
+Here are my 10 choices : 
 
+<br>
 
-![image](img/friends.jpg)
+## Number One
 
-| Title      | Friends  |
+![image](img/HomNguyen.jpg)
+
+| Title      | Unknown  |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=hDNNmeeJs1Q&ab_channel=LifeOfWorld)  |
-| Category    | Comedy  |
-| Writer      | Marta Kauffman & David Crane  |
-| Description | Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.  |
+| Link        | [Website](http://www.hom-nguyen.com/)  |
+| Category    | Painting - Acrylic on canvas |
+| Artist      | Hom Nguyen  |
+| Description | His subtle representations deal with the duality of the visible and the invisible, the material and the immaterial. Thus, Hom Nguyen pushes each of us to a reflection, an introspection, on what we show of ourselves, what we are trying to hide and what we really are.|
+
+<br>
+
+## Number Two
 
 
-*****
+![image](img/Burberry.jpg)
 
-
-
-![image](img/Thisisus.jpg)
-
-| Title      | This is us  |
+| Title      | Draped reclining Mother and Baby 1983   |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=OkTEQwsE8l4&ab_channel=FoxHomeEnt)  |
-| Category    | Comedy  |
-| Writer      | Dan Fogelman  |
-| Description | A heartwarming and emotional story about a unique set of triplets, their struggles and their wonderful parents.  |
+| Link        | [Henry Moore Fondation](https://www.henry-moore.org/#), [Burberry Makers House](https://uk.burberry.com/london-fashion-week/september-show-2017/)  |
+| Category    | Sculpture, bronze |
+| Artist      | Henry Moore |
+| Description | Moore wrote: ‘There are three fundamental poses of the human figure. One is standing, the other is seated, and the third is lying down… But of all the three poses, the reclining figure gives me the most freedom compositionally and spatially.’_(H. Moore)_ This sculpture was part of a collaboration with the fashion Burberry House   |
 
-******
-![image](img/thecrown.jpg)
+<br>
 
-| Title      | The Crown  |
+## Number Three
+
+![image](img/BarbaraHepworth.jpg)
+
+| Title      | Three forms, 1935  |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=JWtnJjn6ng0&ab_channel=Netflix)  |
-| Category    | Drama and History  |
-| Writer      | Peter Morgan |
-| Description | Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.  |
+| Link        | [Website](http://barbarahepworth.org.uk/)  |
+| Category    | Sculpture, marble |
+| Artist      | Barbara Hepworth |
+| Description | "Carving is interrelated masses conveying an emotion; a perfect relationship between the mind and the colour, light and weight which is the stone, made by the hand which feels. It must be so essentially sculpture that it can exist in no other way, something completely the right size but which has growth, something still and yet having movement, so very quiet and yet with a real vitality."_(B.Hepworth)_  |
 
-******
-![image](img/sherlock.png)
+<br>
 
-| Title      | Sherlock  |
+## Number Four
+
+![image](img/Brancusi.jpg)
+
+| Title      | Sleeping Muse, 1910 |
 |-------------|---|
-| Link        | [trailer](https://https://www.youtube.com/watch?v=IrBKwzL3K7s&ab_channel=eleanorcreates)  |
-| Category    | Crime, Mystery and Drama |
-| Writer      | Mark Gatiss, Steven Moffat |
-| Description | A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.  |
+| Link        | [Brancusi exposition in Bruxelles](bozar.be/fr/activities/150143-brancusi)  |
+| Category    | Sculpture marble |
+| Artist      | Constantin Brancusi |
+| Description |What is real is not the external form, but the essence of things... it is impossible for anyone to express anything essentially real by imitating its exterior surface._(C.Brancusi)_  |
 
-******
+<br>
 
-![image](img/madmen.jpg)
+## Number Five
 
-| Title      | Mad Men  |
+![image](img/Picasso.jpg)
+
+| Title      | La femme au violon, 1911 |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=RTMk-xy2dTY&ab_channel=BingeWatcher)  |
-| Category    | Drama |
-| Writer      | Matthew Weiner |
-| Description | A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.|
+| Link        | [Picasso museum in Paris](https://www.museepicassoparis.fr/fr)   |
+| Category    | Painting |
+| Artist      | Pablo Picasso |
+| Description | Painting is a blind man's profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen. _(P.Picasso)_
 
-******
-![image](img/howimetyourmother.jpg)
+<br>
 
-| Title      | How I met your mother  |
+## Number Six
+
+![image](img/Pollock.jpg)
+
+| Title      | Fall Fathom Five, 1947 |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=aJtVL2_fA5w&ab_channel=CokeNpopcorn)  |
-| Category    | Comedy, Romance |
-| Writer      | Carter Bays, Craig Thomas |
-| Description | A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.|
+| Link        | [Jackson Pollock](http://jacksonpollock.org/)  |
+| Category    | Painting |
+| Artist      | Jackson Pollock |
+| Description | Something in me knows where I’m going, and - well, painting is a state of being. ... Painting is self-discovery. Every good artist paints what he is. _(J.Pollock)_|
 
-******
+<br>
 
-![image](img/howimetyourmother.jpg)
+## Number Seven
+![image](img/Miro.jpg)
 
-| Title      | How I met your mother  |
+| Title      | Femme dans la nuit, 1973  |
 |-------------|---|
-| Link        | [trailer](https://www.youtube.com/watch?v=aJtVL2_fA5w&ab_channel=CokeNpopcorn)  |
-| Category    | Comedy, Romance |
-| Writer      | Carter Bays, Craig Thomas |
-| Description | A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.|
+| Link        | [Foundation Miro](https://www.fmirobcn.org/en/)  |
+| Category    | Painting |
+| Artist      | Joan Miro |
+| Description | You can look at a picture for a week and never think of it again. You can also look at the picture for a second and think of it all your life. _(J.Miro)_|
 
-******
+<br>
+
+## Number Eight
+![image](img/BenjaminShine.jpg)
+
+| Title      | Margiela Coat  |
+|-------------|---|
+| Link        | [Benjamin Shine website](https://www.benjaminshine.com/)  |
+| Category    | Canvas with tulle, 2017 |
+| Artist      | Benjamin Shine |
+| Description | Created in collaboration with John Galliano for Maison Margiela, black tulle lining from inside the white trench coat escapes from the back seam, flowing around the body to reveal an intricately formed face. Constructed via the process of hand-sewing, the piece floats over the trench coat so as to move independently. The piece took over 300 hours to make over the course of several months before being shown at Paris Couture Fashion Week. The piece has been purchased by the Metropolitan Museum of Art, New York.|
+
+<br>
+
+## Number Nine
+![image](img/LillianBassan.jpg)
+
+| Title       |   |
+|-------------|---|
+| Link        | [Info on Lillian Bassans](artnet.com/artists/lillian-bassman)  |
+| Category    | Photography |
+| Artist      | Lillian Bassans |
+| Description | Lillian Bassman was a famed American fashion photographer renowned for her work at Harper’s Bazaar magazine. Bassman’s hallmark images are high-contrast black-and-white images of society women, actresses, and models from the 1950s and 1960s—especially of contemporary top model Barbara Mullen, who was her muse.|
+
+<br>
+
+## Number Ten
+![image](img/MarkRothko.jpg)
+
+| Title      | Untitled  |
+|-------------|---|
+| Link        | [Mark Rothko info](http://www.markrothko.org/)
+| Category    | Painting |
+| Artist      | Mark Rothko|
+| Description | The most interesting painting is one that expresses more of what one thinks than of what one sees. _(M.Rothko)_|
+
 
 
 # Technologies
