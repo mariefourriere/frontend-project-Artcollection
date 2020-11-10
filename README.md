@@ -24,7 +24,7 @@ Here are my 10 choices :
 ## Number One
 ![image](img/LillianBassan.jpg)
 
-| Title       |   |
+| Title       |  Unknown |
 |-------------|---|
 | Link        | [Info on Lillian Bassans](artnet.com/artists/lillian-bassman)  |
 | Category    | Photography |
