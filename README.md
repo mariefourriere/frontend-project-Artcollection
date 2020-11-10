@@ -22,33 +22,18 @@ Here are my 10 choices :
 <br>
 
 ## Number One
+![image](img/LillianBassan.jpg)
 
-![image](img/HomNguyen.jpg)
-
-| Title      | Unknown  |
+| Title       |   |
 |-------------|---|
-| Link        | [Website](http://www.hom-nguyen.com/)  |
-| Category    | Painting - Acrylic on canvas |
-| Artist      | Hom Nguyen  |
-| Description | His subtle representations deal with the duality of the visible and the invisible, the material and the immaterial. Thus, Hom Nguyen pushes each of us to a reflection, an introspection, on what we show of ourselves, what we are trying to hide and what we really are.|
+| Link        | [Info on Lillian Bassans](artnet.com/artists/lillian-bassman)  |
+| Category    | Photography |
+| Artist      | Lillian Bassans |
+| Description | Lillian Bassman was a famed American fashion photographer renowned for her work at Harper’s Bazaar magazine. Bassman’s hallmark images are high-contrast black-and-white images of society women, actresses, and models from the 1950s and 1960s—especially of contemporary top model Barbara Mullen, who was her muse.|
 
 <br>
 
 ## Number Two
-
-
-![image](img/Burberry.jpg)
-
-| Title      | Draped reclining Mother and Baby 1983   |
-|-------------|---|
-| Link        | [Henry Moore Fondation](https://www.henry-moore.org/#), [Burberry Makers House](https://uk.burberry.com/london-fashion-week/september-show-2017/)  |
-| Category    | Sculpture, bronze |
-| Artist      | Henry Moore |
-| Description | Moore wrote: ‘There are three fundamental poses of the human figure. One is standing, the other is seated, and the third is lying down… But of all the three poses, the reclining figure gives me the most freedom compositionally and spatially.’_(H. Moore)_ This sculpture was part of a collaboration with the fashion Burberry House   |
-
-<br>
-
-## Number Three
 
 ![image](img/BarbaraHepworth.jpg)
 
@@ -59,10 +44,10 @@ Here are my 10 choices :
 | Artist      | Barbara Hepworth |
 | Description | "Carving is interrelated masses conveying an emotion; a perfect relationship between the mind and the colour, light and weight which is the stone, made by the hand which feels. It must be so essentially sculpture that it can exist in no other way, something completely the right size but which has growth, something still and yet having movement, so very quiet and yet with a real vitality."_(B.Hepworth)_  |
 
+
 <br>
 
-## Number Four
-
+## Number Three
 ![image](img/Brancusi.jpg)
 
 | Title      | Sleeping Muse, 1910 |
@@ -71,6 +56,21 @@ Here are my 10 choices :
 | Category    | Sculpture marble |
 | Artist      | Constantin Brancusi |
 | Description |What is real is not the external form, but the essence of things... it is impossible for anyone to express anything essentially real by imitating its exterior surface._(C.Brancusi)_  |
+
+
+
+
+<br>
+
+## Number Four
+![image](img/Burberry.jpg)
+
+| Title      | Draped reclining Mother and Baby 1983   |
+|-------------|---|
+| Link        | [Henry Moore Fondation](https://www.henry-moore.org/#), [Burberry Makers House](https://uk.burberry.com/london-fashion-week/september-show-2017/)  |
+| Category    | Sculpture, bronze |
+| Artist      | Henry Moore |
+| Description | Moore wrote: ‘There are three fundamental poses of the human figure. One is standing, the other is seated, and the third is lying down… But of all the three poses, the reclining figure gives me the most freedom compositionally and spatially.’_(H. Moore)_ This sculpture was part of a collaboration with the fashion Burberry House   |
 
 <br>
 
@@ -125,14 +125,15 @@ Here are my 10 choices :
 <br>
 
 ## Number Nine
-![image](img/LillianBassan.jpg)
+![image](img/HomNguyen.jpg)
 
-| Title       |   |
+| Title      | Unknown  |
 |-------------|---|
-| Link        | [Info on Lillian Bassans](artnet.com/artists/lillian-bassman)  |
-| Category    | Photography |
-| Artist      | Lillian Bassans |
-| Description | Lillian Bassman was a famed American fashion photographer renowned for her work at Harper’s Bazaar magazine. Bassman’s hallmark images are high-contrast black-and-white images of society women, actresses, and models from the 1950s and 1960s—especially of contemporary top model Barbara Mullen, who was her muse.|
+| Link        | [Website](http://www.hom-nguyen.com/)  |
+| Category    | Painting - Acrylic on canvas |
+| Artist      | Hom Nguyen  |
+| Description | His subtle representations deal with the duality of the visible and the invisible, the material and the immaterial. Thus, Hom Nguyen pushes each of us to a reflection, an introspection, on what we show of ourselves, what we are trying to hide and what we really are.|
+
 
 <br>
 
