@@ -67,7 +67,7 @@ Here are my 10 choices :
 
 | Title      | Draped reclining Mother and Baby 1983   |
 |-------------|---|
-| Link        | [Henry Moore Fondation](https://www.henry-moore.org/#), [Burberry Makers House](https://uk.burberry.com/london-fashion-week/september-show-2017/)  |
+| Link        | [Henry Moore Fondation](https://www.henry-moore.org/#),   |
 | Category    | Sculpture, bronze |
 | Artist      | Henry Moore |
 | Description | Moore wrote: ‘There are three fundamental poses of the human figure. One is standing, the other is seated, and the third is lying down… But of all the three poses, the reclining figure gives me the most freedom compositionally and spatially.’_(H. Moore)_ This sculpture was part of a collaboration with the fashion Burberry House   |
