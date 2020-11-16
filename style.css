@@ -7,11 +7,12 @@
 	box-shadow: none !important;
 } */
 
-body{
+body{ 
     background-color: black;
     margin: 0;
-    
+    min-height: 100vh;
 }
+
 
 header{
     color: white;
@@ -39,4 +40,11 @@ blockquote{
 i:hover{
     background-color:white;
     border-radius: 50%;
+}
+
+.fieldsize{
+    max-width: 400px;
+    display: inline-block;
+    margin-left: 75%;
+    
 }
